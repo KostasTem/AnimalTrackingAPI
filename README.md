@@ -1,3 +1,3 @@
 # AnimalTrackingAPI
 
-This API serves as the backend for the Animal Tracking App
+This project is a Spring Boot API that serves as the backend for the Animal Tracking App
